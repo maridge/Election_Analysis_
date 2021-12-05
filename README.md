@@ -37,6 +37,16 @@ A local congressional election was held in Colorado and a memeber of the BOard o
         Diana DeGette who received 73.8% of the vote and 272,892 number of votes
         
 ## Challenge Overview
-
+Additional information had been requested by the election commission regarding the turnout at participating counties in the     region.  This analysis included the turnout for each county, percentage of votes per county and which county had the highest  turnout.
 
 ## Challenge Summary
+  The results for each county participation in the election is as follows.
+      Jefferson had 10.5% of the total vote for a total of 38,855 votes
+      Denver had 82.8% of the total vote for a total of 306,055
+      Arapahoe had 6.7% of the total vote for a total of 24,801
+  
+The county with the highest turnout was Denver with 306,055 votes or a total of 82.8%
+
+
+
+
