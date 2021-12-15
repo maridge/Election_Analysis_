@@ -24,6 +24,10 @@ A local congressional election was held in Colorado and a memeber of the BOard o
   The analysis of the election show that:
   
     There were 369,711 votes cast in the election.
+    Breakdown by county:
+      Jefferson: 38,855 votes (10.5% of the total votes)
+      Denver: 306,055 votes (82.8% of the total votes)
+      Araphone: 24,801 votes (6.7% of the total votes)
     The candadates were:
         Charles Casper Stockham
         Diana DeGette
@@ -47,6 +51,5 @@ Additional information had been requested by the election commission regarding t
   
 The county with the highest turnout was Denver with 306,055 votes or a total of 82.8%
 
-
-
+This script could be used for any election which sorts data by BallotID, COunty and Candidate with identical analysis provided.  It could be modicied to provide analysis based on different available dimension as required.
 
